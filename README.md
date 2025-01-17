@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer </h3>
 
 - 🌱 I’m currently learning **Nextjs , React Native, Godot Engine**
 
@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shuu_05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuu_05_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sudhanshu-lawhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sudhanshu-lawhare" height="30" width="40" /></a>
-<a href="https://instagram.com/@su.dhansh.u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@su.dhansh.u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudhanshu-lawhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-lawhare" height="30" width="40" /></a>
+<a href="https://instagram.com/su.dhansh.u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su.dhansh.u" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/lawhageww/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/lawhageww/" height="30" width="40" /></a>
 </p>
 
