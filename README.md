@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shu-50/](https://github.com/Shu-50/)
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **lawhares@gmail.com**
 
