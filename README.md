@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
-<h3 align="center">A passionate Frontend developer </h3>
+<h3 align="center">A passionate Full Stack developer </h3>
 
 - 🌱 I’m currently learning **Nextjs , React Native, Godot Engine**
 
