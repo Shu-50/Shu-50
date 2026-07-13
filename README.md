@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shu-50&label=Profile%20views&color=0e75b6&style=flat" alt="Shu-50" /> </p>
 
-- 🔭 I'm currently working on **Magic Incubition Platform**
+- 🔭 I'm currently working on **ERP Education System**
 - 🌱 I'm currently learning **Spring Boot, Next.js, React Native**
 - 💬 Ask me about **React.js, Node.js, web development, AIML, Database**
 - 📫 How to reach me **lawhares@gmail.com**
