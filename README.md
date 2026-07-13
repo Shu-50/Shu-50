@@ -372,7 +372,7 @@ OCR
 
 ## 💡 Quote
 
-> **"Code. Learn. Build. Repeat."**
+> **"Some beautiful paths can’t be discovered without getting lost."**
 
 ---
 
