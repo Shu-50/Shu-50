@@ -166,12 +166,6 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Local animated cards — always load, never rate-limited -->
-<img src="./stats.svg?v=1" alt="GitHub Stats" height="195"/>
-<img src="./langs.svg?v=1" alt="Top Languages" height="195"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Shu-50&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=1D84E0&currStreakLabel=60A5FA&v=2" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -181,10 +175,7 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./trophies.svg?v=1" alt="Trophies" width="95%"/>
-
-<br/><br/>
+<!-- 🐍 snake below -->
 
 ## 🐍 Watch the snake eat my contributions
 
