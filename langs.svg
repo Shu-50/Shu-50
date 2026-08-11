@@ -1,0 +1,33 @@
+<svg width="360" height="195" viewBox="0 0 360 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1526"/><stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="358" height="193" rx="12" fill="url(#lbg)" stroke="#1d4ed8" stroke-opacity="0.45"/>
+  <text x="22" y="34" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#38bdf8">💻 Most Used Languages</text>
+
+  <!-- edit widths (max 210) + % to match your profile -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#c9d1d9">
+    <text x="22" y="62">JavaScript</text>
+    <rect x="110" y="52" width="0" height="11" rx="5.5" fill="#f1e05a"><animate attributeName="width" values="0;210" begin="0.2s" dur="1s" fill="freeze"/></rect>
+    <text x="330" y="62" fill="#60a5fa" text-anchor="end">35%</text>
+
+    <text x="22" y="88">TypeScript</text>
+    <rect x="110" y="78" width="0" height="11" rx="5.5" fill="#3178c6"><animate attributeName="width" values="0;150" begin="0.35s" dur="1s" fill="freeze"/></rect>
+    <text x="330" y="88" fill="#60a5fa" text-anchor="end">25%</text>
+
+    <text x="22" y="114">Java</text>
+    <rect x="110" y="104" width="0" height="11" rx="5.5" fill="#b07219"><animate attributeName="width" values="0;108" begin="0.5s" dur="1s" fill="freeze"/></rect>
+    <text x="330" y="114" fill="#60a5fa" text-anchor="end">18%</text>
+
+    <text x="22" y="140">Python</text>
+    <rect x="110" y="130" width="0" height="11" rx="5.5" fill="#3572A5"><animate attributeName="width" values="0;84" begin="0.65s" dur="1s" fill="freeze"/></rect>
+    <text x="330" y="140" fill="#60a5fa" text-anchor="end">14%</text>
+
+    <text x="22" y="166">C++ / CSS</text>
+    <rect x="110" y="156" width="0" height="11" rx="5.5" fill="#38bdf8"><animate attributeName="width" values="0;48" begin="0.8s" dur="1s" fill="freeze"/></rect>
+    <text x="330" y="166" fill="#60a5fa" text-anchor="end">8%</text>
+  </g>
+</svg>
